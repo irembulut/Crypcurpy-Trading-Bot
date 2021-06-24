@@ -1,5 +1,8 @@
 # Crypcurpy-Trading-Bot
 
+You can check the attached website for the presentation of the project. ---> https://imontradingbot.wordpress.com/crypcurpy/
+
+
 Fast automated trading, and portfolio management for Bitcoin, Ethereum, Litecoin, 
 and 100+ other cryptocurrencies on the Turkey's top crypto exchanges. 
 
